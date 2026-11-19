@@ -1,5 +1,5 @@
 The Summit Event Planner
-A console-based Python application designed to help users plan events, manage expenses and compare costs against an available budget.
+A console-based (UI added in version 2) Python application designed to help users plan events, manage expenses and compare costs against an available budget.
 
 The Summit Event Planner allows users to enter a budget and track a range of event-related expenses including venue, staffing, catering, entertainment, production, logistics and insurance costs. The system automatically calculates the total event cost and provides instant feedback on whether the event is under budget, over budget or exactly on budget.
 
